@@ -1,0 +1,2 @@
+read_id	filename	runid	sample_name	read_length	mean_quality	channel	read_number	start_time
+mgen_mut2col2	assembly.fastq		mgen_mut2col2	3138	26.80	0	0	
