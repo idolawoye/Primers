@@ -1,0 +1,2 @@
+name	runid	sample_name	ref	coverage	ref_coverage	qstart	qend	rstart	rend	aligned_ref_len	direction	length	read_length	mean_quality	start_time	match	ins	del	sub	iden	acc	duplex
+mgen_mut3col6		mgen_mut3col6	puc19	99.8725	99.8511	0	3132	4	2686	2682	+	3135	3136	nan		2679	453	3	1	99.96	85.42	0
