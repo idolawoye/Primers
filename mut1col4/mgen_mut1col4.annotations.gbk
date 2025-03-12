@@ -1,0 +1,206 @@
+LOCUS       plasmid                 2954 bp    DNA     circular SYN 12-MAR-2025
+DEFINITION  .
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+COMMENT     Annotated with pLannotate v1.2.2
+FEATURES             Location/Qualifiers
+     promoter        1363..1467
+                     /note="pLannotate"
+                     /label="AmpR promoter"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     rep_origin      2315..2902
+                     /note="pLannotate"
+                     /label="ori"
+                     /database="snapgene"
+                     /identity="99.7"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="rep_origin"
+     misc_feature    complement(363..419)
+                     /note="pLannotate"
+                     /label="MCS"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="misc_feature"
+     promoter        272..302
+                     /note="pLannotate"
+                     /label="lac promoter"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     CDS             1663..2143
+                     /note="pLannotate"
+                     /label="bla(M) (fragment)"
+                     /database="snapgene"
+                     /identity="99.4"
+                     /match_length="60.6"
+                     /fragment="True"
+                     /other="CDS"
+     protein_bind    236..257
+                     /note="pLannotate"
+                     /label="CAP binding site"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="protein_bind"
+     ncRNA           complement(0..957)
+                     /note="pLannotate"
+                     /label="LSU rRNA archaea"
+                     /database="Rfam"
+                     /identity="100.0"
+                     /match_length="117.1"
+                     /fragment="False"
+                     /other="ncRNA"
+     protein_bind    310..326
+                     /note="pLannotate"
+                     /label="lac operator"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="protein_bind"
+     CDS             869..1026
+                     /note="pLannotate"
+                     /label="lacZα (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="90.8"
+                     /fragment="True"
+                     /other="CDS"
+     misc_feature    complement(1032..1131)
+                     /note="pLannotate"
+                     /label="bom (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="70.9"
+                     /fragment="True"
+                     /other="misc_feature"
+     CDS             1468..1667
+                     /note="pLannotate"
+                     /label="AmpR (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="23.2"
+                     /fragment="True"
+                     /other="CDS"
+     ncRNA           complement(2354..2458)
+                     /note="pLannotate"
+                     /label="RNAI"
+                     /database="Rfam"
+                     /identity="100.0"
+                     /match_length="102.9"
+                     /fragment="False"
+                     /other="ncRNA"
+     rep_origin      1..129
+                     /note="pLannotate"
+                     /label="RSF ori (fragment)"
+                     /database="snapgene"
+                     /identity="95.3"
+                     /match_length="17.2"
+                     /fragment="True"
+                     /other="rep_origin"
+     CDS             548..802
+                     /note="pLannotate"
+                     /label="YCX91_PHAAO (fragment)"
+                     /database="swissprot"
+                     /identity="60.5"
+                     /match_length="93.4"
+                     /fragment="True"
+                     /other="CDS"
+     promoter        310..328
+                     /note="pLannotate"
+                     /label="T5 promoter (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="42.2"
+                     /fragment="True"
+                     /other="promoter"
+     CDS             131..223
+                     /note="pLannotate"
+                     /label="lacI (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="8.6"
+                     /fragment="True"
+                     /other="CDS"
+     CDS             complement(1233..1268)
+                     /note="pLannotate"
+                     /label="rop (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="18.8"
+                     /fragment="True"
+                     /other="CDS"
+     CDS             222..317
+                     /note="pLannotate"
+                     /label="penA (fragment)"
+                     /database="swissprot"
+                     /identity="68.8"
+                     /match_length="10.2"
+                     /fragment="True"
+                     /other="CDS"
+ORIGIN
+        1 ctcacatgtt ctttcctgcg ttatcccctg attctgtgga taaccgtatt accgcctttg
+       61 agtgagctga taccgctcgc cgcagccgaa cgaccgagcg cagcgagtca gtgagcgagg
+      121 aagcggaaga gcgcccaata cgcaaaccgc ctctccccgc gcgttggccg attcattaat
+      181 gcagctggca cgacaggttt cccgactgga aagcgggcag tgagcgcaac gcaattaatg
+      241 tgagttagct cactcattag gcaccccagg ctttacactt tatgcttccg gctcgtatgt
+      301 tgtgtggaat tgtgagcgga taacaatttc acacaggaaa cagctatgac catgattacg
+      361 ccaagcttgc atgcctgcag gtcgactcta gaggatcccc gggtaccgag ctcgaattcc
+      421 acatcaacaa atccttgcga acttgcatca attgctccta cctattctct acatggtggt
+      481 gttttgatca atattaagct acagtaaagc ttcacggggt ctttccgtcc cgttgcgcct
+      541 aacgggtgtc ttcacccgta cctggatttc accgagtcta tagccgagac agtcaagaga
+      601 tggttacacc attcaagcgg gacggaattt acccgactag gaatttcgct accttaggac
+      661 cgttatagtt acggccgccg ttcactgggg cttcagttaa aagctttgca ataaattgct
+      721 aacctccttc tttaaccttc cagcactggg caggtgtcac cccatataca tcaccttacg
+      781 gtttggcata gagttgtgtt ttagttaaac agtccccctc gttcttcact gcggcttact
+      841 tttagataag caccccttct cgctaagaat tcactggccg tcgttttaca acgtcgtgac
+      901 tgggaaaacc ctggcgttac ccaacttaat cgccttgcag cacatccccc tttcgccagc
+      961 tggcgtaata gcgaagaggc ccgcaccgat cgcccttccc aacagttgcg cagcctgaat
+     1021 ggcgaatggc gcctgatgcg gtattttctc cttacgcatc tgtgcggtat ttcacaccgc
+     1081 atatggtgca ctctcagtac aatctgctct gatgccgcat agttaagcca gccccgacac
+     1141 ccgccaacac ccgctgacgc gccctgacgg gcttgtctgc tcccggcatc cgcttacaga
+     1201 caagctgtga ccgtctccgg gagctgcatg tgtcagaggt tttcaccgtc atcaccgaaa
+     1261 cgcgcgagac gaaagggcct cgtgatacgc ctatttttat aggttaatgt catgataata
+     1321 atggtttctt agacgtcagg tggcactttt cggggaaatg tgcgcggaac ccctatttgt
+     1381 ttatttttct aaatacattc aaatatgtat ccgctcatga gacaataacc ctgataaatg
+     1441 cttcaataat attgaaaaag gaagagtatg agtattcaac atttccgtgt cgcccttatt
+     1501 cccttttttg cggcattttg ccttcctgtt tttgctcacc cagaaacgct ggtgaaagta
+     1561 aaagatgctg aagatcagtt gggtgcacga gtgggttaca tcgaactgga tctcaacagc
+     1621 ggtaagatcc ttgagagttt tcgccccgaa gaacgttttc caatgattga taacactgcg
+     1681 gccaacttac ttctgacaac gatcggagga ccgaaggagc taaccgcttt tttgcacaac
+     1741 atggggatca tgtaactcgc cttgatcgtt gggaaccgga gctgaatgaa gccataccaa
+     1801 acgacgagcg tgacaccacg atgcctgtag caatggcaac aacgttgcgc aaactattaa
+     1861 ctggcgaact acttactcta gcttcccggc aacaattaat agactggatg gaggcggata
+     1921 aagttgcagg accacttctg cgctcggccc ttccggctgg ctggtttatt gctgataaat
+     1981 ctggagccgg tgagcgtggg tctcgcggta tcattgcagc actggggcca gatggtaagc
+     2041 cctcccgtat cgtagttatc tacacgacgg ggagtcaggc aactatggat gaacgaaata
+     2101 gacaaatcgc tgagataggt gcctcactga ttaagcattg gtaactgtca gaccaagttt
+     2161 actcatatat actttagatt gatttaaaac ttcattttta atttaaaagg atttaggtga
+     2221 agatcctttt tgataatctc atgaccaaaa tcccttaacg tgagttttcg ttccactgag
+     2281 cgtcagaccc cgtagaaaag atcaaaggat cttcttgaga tccttttttt ctgcgcgtaa
+     2341 tctgctgctt gcaaacaaaa aaaccaccgc taccagcggt ggtttgtttg ccggatcaag
+     2401 agctaccaac tctttttccg aaggtaactg gcttcagcag agcgcagata ccaaatactg
+     2461 ttcttctagt gtagccgtag ttaggccacc acttcaagaa ctctgtagca ccgcctacat
+     2521 acctcgctct gctaatcctg ttaccagtgg ctgctgccag tggcgataag tcgtgtctta
+     2581 ccgggttgga ctcaagacga tagttaccgg ataaggcgca gcggtcgggc tgaacggggg
+     2641 gttcgtgcac acagcccagc ttggagcgaa cgacctacac cgaactgaga tacctacagc
+     2701 gtgagctatg agaaagcgcc acgcttcccg aagggagaaa ggcggacagg tatccggtaa
+     2761 gcggcagggt cggaacagga gagcgcacga gggagcttcc aggggaaacg cctggtatct
+     2821 ttatagtcct gtcgggtttc gccacctctg acttgagcgt cgatttttgt gatgctcgtc
+     2881 aggggggcgg agcctatgga aaaacgccag caacgcggcc tttttacggt tcctggcctt
+     2941 ttgctggcct tttg
+//

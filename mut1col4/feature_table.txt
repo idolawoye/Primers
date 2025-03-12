@@ -1,0 +1,19 @@
+Sample_name,Feature,Database,Identity,Match Length,Description,Start Location,End Location,Length,Strand,Plasmid length
+mgen_mut1col4,AmpR promoter,snapgene,100.0%,100.0%,bla,1362,1467,105,1,2954
+mgen_mut1col4,ori,snapgene,99.7%,100.0%,high-copy-number ColE1/pMB1/pBR322/pUC origin of replication ,2314,2902,589,1,2954
+mgen_mut1col4,MCS,snapgene,100.0%,100.0%,pUC18/19 multiple cloning site,362,419,57,-1,2954
+mgen_mut1col4,lac promoter,snapgene,100.0%,100.0%,promoter for the E. coli lac operon,271,302,31,1,2954
+mgen_mut1col4,bla(M),snapgene,99.4%,60.6%,β-lactamase lacking the signal sequence; bla(M); allows cytosolic expression of β-lactamase,1662,2143,482,1,2954
+mgen_mut1col4,CAP binding site,snapgene,100.0%,100.0%,CAP binding activates transcription in the presence of cAMP. E. coli catabolite activator protein,235,257,22,1,2954
+mgen_mut1col4,LSU rRNA archaea,Rfam,100.0%,82.9%,Accession: RF02540 - Archaeal large subunit ribosomal RNA,-1,957,958,-1,2954
+mgen_mut1col4,lac operator,snapgene,100.0%,100.0%,The lac repressor binds to the lac operator to inhibit transcription in E. coli. This inhibition can be relieved by adding lactose or isopropyl-β-D-thiogalactopyranoside (IPTG). lac repressor encoded by lacI,309,326,17,1,2954
+mgen_mut1col4,lacZα,snapgene,100.0%,90.8%,LacZα fragment of β-galactosidase; lacZ fragment,868,1026,158,1,2954
+mgen_mut1col4,bom,snapgene,100.0%,70.9%,basis of mobility region from pBR322,1031,1131,100,-1,2954
+mgen_mut1col4,AmpR,snapgene,100.0%,23.2%,"β-lactamase; bla; confers resistance to ampicillin, carbenicillin, and related antibiotics",1467,1667,200,1,2954
+mgen_mut1col4,RNAI,Rfam,100.0%,97.1%,Accession: RF00106 - RNAI,2353,2458,105,-1,2954
+mgen_mut1col4,RSF ori,snapgene,95.3%,17.2%,Plasmids containing the RSF 1030 origin of replication can be propagated in E. coli cells that contain additional plasmids with compatible origins. ,0,129,129,1,2954
+mgen_mut1col4,YCX91_PHAAO,swissprot,60.5%,93.4%,Protein predicted: Swiss-Prot protein existence level 4. From Phalaenopsis aphrodite subsp. formosana (Moth orchid).,547,802,255,1,2954
+mgen_mut1col4,T5 promoter,snapgene,100.0%,42.2%,"bacteriophage T5 promoter for E. coli RNA polymerase, with embedded lac operator",309,328,19,1,2954
+mgen_mut1col4,lacI,snapgene,100.0%,8.6%,lac repressor; lacI; The lac repressor binds to the lac operator to inhibit transcription in E. coli. This inhibition can be relieved by adding lactose or isopropyl-β-D-thiogalactopyranoside (IPTG).,130,223,93,1,2954
+mgen_mut1col4,rop,snapgene,100.0%,18.8%,"Rop protein, which maintains plasmids at low copy number; rop",1232,1268,36,-1,2954
+mgen_mut1col4,penA,swissprot,68.8%,10.2%,PENA_BURM1 - Experimental evidence at transcript level: Swiss-Prot protein existence level 2. Upon expression in E.coli enables the latter to utilize penicillin as a carbon source. From Burkholderia multivorans (strain ATCC 17616 / 249).,221,317,96,1,2954
