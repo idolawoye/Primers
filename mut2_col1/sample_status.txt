@@ -1,0 +1,2 @@
+Sample,Assembly completed / failed reason,Length
+mgen_mut2col1,Completed successfully,3137
