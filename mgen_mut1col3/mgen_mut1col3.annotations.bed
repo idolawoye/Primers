@@ -1,0 +1,16 @@
+mgen_mut1col3	1624	1729	AmpR promoter	+
+mgen_mut1col3	1729	2589	AmpR	+
+mgen_mut1col3	2759	212	ori	+
+mgen_mut1col3	625	682	MCS	-
+mgen_mut1col3	534	565	lac promoter	+
+mgen_mut1col3	498	520	CAP binding site	+
+mgen_mut1col3	572	589	lac operator	+
+mgen_mut1col3	-1	1219	LSU rRNA archaea	-
+mgen_mut1col3	1131	1288	lacZα	+
+mgen_mut1col3	1293	1393	bom	-
+mgen_mut1col3	2798	2903	RNAI	-
+mgen_mut1col3	810	1065	YCX91_PHAAO	+
+mgen_mut1col3	572	591	T5 promoter	+
+mgen_mut1col3	393	486	lacI	+
+mgen_mut1col3	1494	1530	rop	-
+mgen_mut1col3	484	580	penA	+

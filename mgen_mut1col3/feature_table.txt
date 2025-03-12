@@ -1,0 +1,17 @@
+Sample_name,Feature,Database,Identity,Match Length,Description,Start Location,End Location,Length,Strand,Plasmid length
+mgen_mut1col3,AmpR promoter,snapgene,100.0%,100.0%,bla,1624,1729,105,1,3135
+mgen_mut1col3,AmpR,snapgene,99.5%,100.0%,"β-lactamase; bla; confers resistance to ampicillin, carbenicillin, and related antibiotics",1729,2589,861,1,3135
+mgen_mut1col3,ori,snapgene,99.7%,100.0%,high-copy-number ColE1/pMB1/pBR322/pUC origin of replication ,2759,212,589,1,3135
+mgen_mut1col3,MCS,snapgene,100.0%,100.0%,pUC18/19 multiple cloning site,625,682,57,-1,3135
+mgen_mut1col3,lac promoter,snapgene,100.0%,100.0%,promoter for the E. coli lac operon,534,565,31,1,3135
+mgen_mut1col3,CAP binding site,snapgene,100.0%,100.0%,CAP binding activates transcription in the presence of cAMP. E. coli catabolite activator protein,498,520,22,1,3135
+mgen_mut1col3,lac operator,snapgene,100.0%,100.0%,The lac repressor binds to the lac operator to inhibit transcription in E. coli. This inhibition can be relieved by adding lactose or isopropyl-β-D-thiogalactopyranoside (IPTG). lac repressor encoded by lacI,572,589,17,1,3135
+mgen_mut1col3,LSU rRNA archaea,Rfam,100.0%,54.8%,Accession: RF02540 - Archaeal large subunit ribosomal RNA,-1,1219,1220,-1,3135
+mgen_mut1col3,lacZα,snapgene,99.4%,90.8%,LacZα fragment of β-galactosidase; lacZ fragment,1131,1288,158,1,3135
+mgen_mut1col3,bom,snapgene,100.0%,70.9%,basis of mobility region from pBR322,1293,1393,100,-1,3135
+mgen_mut1col3,RNAI,Rfam,100.0%,97.1%,Accession: RF00106 - RNAI,2798,2903,105,-1,3135
+mgen_mut1col3,YCX91_PHAAO,swissprot,60.5%,93.4%,Protein predicted: Swiss-Prot protein existence level 4. From Phalaenopsis aphrodite subsp. formosana (Moth orchid).,810,1065,255,1,3135
+mgen_mut1col3,T5 promoter,snapgene,100.0%,42.2%,"bacteriophage T5 promoter for E. coli RNA polymerase, with embedded lac operator",572,591,19,1,3135
+mgen_mut1col3,lacI,snapgene,100.0%,8.6%,lac repressor; lacI; The lac repressor binds to the lac operator to inhibit transcription in E. coli. This inhibition can be relieved by adding lactose or isopropyl-β-D-thiogalactopyranoside (IPTG).,393,486,93,1,3135
+mgen_mut1col3,rop,snapgene,100.0%,18.8%,"Rop protein, which maintains plasmids at low copy number; rop",1494,1530,36,-1,3135
+mgen_mut1col3,penA,swissprot,68.8%,10.2%,PENA_BURM1 - Experimental evidence at transcript level: Swiss-Prot protein existence level 2. Upon expression in E.coli enables the latter to utilize penicillin as a carbon source. From Burkholderia multivorans (strain ATCC 17616 / 249).,484,580,96,1,3135
