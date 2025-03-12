@@ -1,0 +1,2 @@
+Sample,Assembly completed / failed reason,Length
+mgen_mut1col3,Insert found but does not align with provided reference,3112
